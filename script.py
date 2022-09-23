@@ -18,7 +18,7 @@ def main():
             working_col = col
             break
 
-    print("The working coulm is: ", working_col)
+    # print("The working coulm is: ", working_col)
 
     # Create a camp collection
     camps = []
